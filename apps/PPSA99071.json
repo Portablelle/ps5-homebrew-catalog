@@ -1,0 +1,14 @@
+{
+  "titleid": "PPSA99071",
+  "name": "Botty+",
+  "kind": "app",
+  "category": "utilities",
+  "description": "Native PS5 download and library manager with torrent, extraction, compression and embedded Switch emulation; requires separate Botty services.",
+  "license": "GPL-3.0",
+  "author": "Portablelle",
+  "version": "2.0.0",
+  "source_repo": "https://github.com/Portablelle/Botty-Plus",
+  "artifact_url": "https://github.com/Portablelle/Botty-Plus/releases/download/v2.0.0/botty-plus-2.0.0-Folder.zip",
+  "sha256": "60df3f1dfd59697ca19aa8600464a0b2ebe1919a339db0719ede6f83bd7d5190",
+  "icon_url": "https://raw.githubusercontent.com/Portablelle/Botty-Plus/v2.0.0/homebrew/botty-native/sce_sys/icon0.png"
+}
